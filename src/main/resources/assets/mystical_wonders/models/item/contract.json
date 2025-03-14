@@ -1,0 +1,13 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "mystical_wonders:item/contract_unsigned"
+  },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "mystical_wonders:item/contract_signed"
+    }
+  ]
+}
+

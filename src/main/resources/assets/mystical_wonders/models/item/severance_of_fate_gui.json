@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "mystical_wonders:item/severance_of_fate_gui"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "mystical_wonders",
+  "version": "${version}",
+
+  "name": "Mystical Wonders",
+  "description": "",
+  "authors": [
+    "Chryseon - Dev and Owner",
+    "Stardust - Ideas"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/mystical_wonders/icon.png",
+
+  "environment": "*",
+  "accessWidener" : "mystical_wonders.accesswidener",
+  "entrypoints": {
+    "main": [
+      "net.chryseon.mystical_wonders.MysticalWonders"
+    ],
+    "client": [
+      "net.chryseon.mystical_wonders.MysticalWondersClient"
+    ]
+  },
+  "mixins": [
+    "mystical_wonders.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.20.x",
+    "java": ">=17"
+  }
+}

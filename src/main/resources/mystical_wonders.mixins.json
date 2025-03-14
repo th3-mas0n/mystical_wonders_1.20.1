@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.chryseon.mystical_wonders.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "ItemRendererMixin",
+    "PlayerEntityMixin",
+    "PlayerKillMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

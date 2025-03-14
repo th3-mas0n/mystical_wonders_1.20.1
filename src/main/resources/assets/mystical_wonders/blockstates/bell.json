@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "mystical_wonders:block/bell"
+    },
+    "facing=west": {
+      "model": "mystical_wonders:block/bell",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "mystical_wonders:block/bell",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "mystical_wonders:block/bell",
+      "y": 270
+    }
+
+  }
+}

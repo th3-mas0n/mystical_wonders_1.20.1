@@ -1,0 +1,21 @@
+{
+  "item.mystical_wonders.contract": "§eContract",
+  "item.mystical_wonders.grimoire": "§eCelestial Grimoire",
+  "item.mystical_wonders.handbell": "§eGuardian HandBell",
+  "item.mystical_wonders.mark_of_merchant": "§eMark Of The Merchant",
+  "item.mystical_wonders.severance_of_fate": "§eSeverance Of Fate",
+  "item.mystical_wonders.star_staff": "§eDivine Severance",
+  "item.mystical_wonders.teleporter": "§eTeleporter Of Souls",
+
+  "effect.mystical_wonders.": "§e",
+
+  "block.mystical_wonders.bell": "§eDivine Bell",
+  "block.mystical_wonders.forsaken_bell": "§eForsaken Bell",
+
+  "item.mystical_wonders.coins_copper": "Copper Stellars",
+  "item.mystical_wonders.coins_diamond": "Diamond Stellars",
+  "item.mystical_wonders.coins_emerald": "Emerald Stellars",
+  "item.mystical_wonders.coins_iron": "Iron Stellars",
+  "item.mystical_wonders.coins_gold": "Gold Stellars",
+  "item.mystical_wonders.coins_netherite": "Netherite Stellars"
+}
